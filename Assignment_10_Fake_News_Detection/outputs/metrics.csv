@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+Text-only,1.0,1.0,1.0,1.0
+Image-only,1.0,1.0,1.0,1.0
+Multimodal-fusion,1.0,1.0,1.0,1.0
