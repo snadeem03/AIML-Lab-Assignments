@@ -1,0 +1,5 @@
+model,train_R2,test_R2,test_MAE,test_RMSE
+OLS-LinearRegression,0.3874,0.1602,2.1564,2.8618
+Ridge,0.3761,0.2013,2.0604,2.7908
+Lasso,0.3769,0.1949,2.0876,2.802
+ElasticNet,0.3782,0.198,2.0726,2.7966
