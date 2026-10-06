@@ -1,0 +1,5 @@
+param,value
+svr__C,5.0
+svr__epsilon,0.5
+svr__gamma,auto
+svr__kernel,rbf
